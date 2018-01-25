@@ -1,0 +1,43 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+#header
+{
+	height: 180px;
+	width: 1000px;
+	border: 1px solid black;
+
+}
+
+#upperHeader
+{
+	width: 1000px;
+	height: 90px;
+	background-color: white;
+}
+
+#lowerHeader
+{
+	width: 1000px;
+	height: 90px;
+	background: linear-gradient(to bottom, #2b69a1, #4a7fab);	
+}
+
+#adBar
+{
+	display: inline-block;
+	height: 1020px;
+	width: 250px;
+	border: 1px solid black;
+}
+
+#body
+{
+	display: inline-block;
+	width: 745px;
+	height: 1020px;
+	border: 1px solid black;
+}
